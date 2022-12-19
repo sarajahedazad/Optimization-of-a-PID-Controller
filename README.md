@@ -5,7 +5,7 @@ Transfer function of an elevator:
 
 T(s) = Torque, P(s) = Position
 
-![\Large P(t)=4.5-4.5cos(\frac{\pi.t}{10})](https://latex.codecogs.com/svg.latex?\Large&space;P(t)=4.5-4.5cos(\frac{\pi.t}{10})) 
+![\Large P(t)=4.5-4.5cos(\frac{\pi t}{10})](https://latex.codecogs.com/svg.latex?\Large&space;P(t)=4.5-4.5cos(\frac{\pi t}{10})) 
 
 **Problem Description:**
 * I simulated the transfer function in MATLAB simulink, with a PID controller.
